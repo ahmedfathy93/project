@@ -1,0 +1,300 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    
+   
+}
+
+
+.divferst {
+    position: relative;
+    height: 420px;
+
+
+}
+.divferst .images0 {
+    position: absolute;
+
+   
+}
+
+nav  {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+.indiv00 {
+    display: flex;
+    align-items: center;
+
+   
+}
+.indiv00 a {
+    margin: 20px;
+    text-decoration: none;
+    color: gray;
+    font-size: small;
+}
+.indiv00 .indiv001 {
+   border-bottom: 1px solid rgb(182, 40, 40);
+}
+
+.indiv0 input {
+    position: absolute;
+    right: 300px;
+    background-color: white;
+    padding: 5px 20px;
+    border-radius: 20px;
+    border: none;
+    
+}
+.indiv00 img {
+    margin-right: 5px;
+    margin-left: 40px;
+    
+}
+.div2 {
+    display: flex;
+
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+.h1 {
+    color: rgb(104, 97, 94);
+    font-family: 'Nunito', sans-serif;
+}
+.strong {
+   color: rgb(134, 45, 97);
+
+}
+.p {
+    color: rgb(161, 149, 149);
+    font-size: large;
+    font-family: 'Nunito', sans-serif;
+}
+
+.img1 {
+    position: relative;
+    bottom:100px ;
+}
+.img2 {
+    position: absolute;
+    bottom: 190px;
+    right: 110px;
+}
+.img3 {
+    position: absolute;
+    bottom: 110px;
+    right: 60px;
+}
+.imgewaves {
+    position: absolute;
+    top: 310px;
+    left: 5%;
+    overflow: visible;
+}
+.divsecond {
+    position: relative;
+   
+}
+.divsecond .img {
+    position: absolute;
+    left: 30%;
+}
+
+.div0 {
+    position: absolute;
+    top: 60px;
+    left: 280px;
+text-align: center;
+   
+}
+.div0 .h5 {
+    color: rgb(117, 111, 108);
+    font-family: 'Nunito', sans-serif;
+    margin: 5px 0px;
+}
+.div0 .p {
+    color: rgb(161, 149, 149);
+    font-size:12px;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+.div1 {
+    
+        position: absolute;
+    top: 170px;
+    left: 580px;
+text-align: center;
+    
+}
+.div1 .h5 {
+    
+        color: rgb(117, 111, 108);
+    font-family: 'Nunito', sans-serif;
+    margin: 5px 0px;
+   
+}
+
+.div1 .p {
+    color: rgb(161, 149, 149);
+    font-size:12px;
+    font-family: 'Nunito', sans-serif;
+}
+.twodiv {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    top: 320px;
+    
+}
+.twodiv .div000 {
+    text-align: center;
+    padding-right: 90px;
+}
+.twodiv .divdiv {
+    display: flex;
+    align-items: center;
+    padding: 0 170px;
+    
+}
+.twodiv .divdiv .text {
+    position: absolute;
+    left: 290px;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+.twodiv .divdiv .text .p1 {
+    font-size: 8px;
+}
+.twodiv .divdiv .text .p2 {
+    font-size: 20px;
+}
+
+ 
+
+.thirddiv{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    top: 350px;
+    margin: 0px 200px;
+}
+/* .thirddiv .fa-angle-left{
+    width: 100px;
+} */
+.thirddiv1 {
+    text-align: center;
+}
+.thirddiv1 .p1 {
+    margin-bottom: 20px ;
+    font-size: large;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(102, 101, 101);
+}
+.thirddiv1 .p2 {
+    font-size: medium;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(133, 125, 125);
+}
+.footer {
+    position: relative;
+    bottom: 0px;
+    height: 100vh;
+    overflow: hidden;
+    
+   
+   
+}
+.footer .img1{
+position: absolute;
+width: 100%;
+top: 300px; 
+
+
+}
+.footer .img2 {
+position: absolute;
+    top: 360px;
+    right: 300px;
+} 
+.store {
+
+    position: absolute;
+    top: 480px;
+    left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.apple{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img11 {
+    position: relative;
+}
+.img22 {
+    position: absolute;
+    left: 10px;
+}
+.p11 {
+    position: absolute;
+    left: 50px;
+}
+.play{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+.img33 {
+    position: relative;
+}
+.img44 {
+    position: absolute;
+    left: 170px;
+}
+.p22 {
+    position: absolute;
+    left: 210px;
+}
+.div-icons {
+    position: absolute;
+    top: 550px;
+    left: 50px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+
+}
+.whatsapp {
+    margin:0px 20px;
+}
+.links {
+    position: absolute;
+    top: 600px;
+    left: 30px;
+    margin-top: 20px;
+  
+}
+.links a {
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+}
